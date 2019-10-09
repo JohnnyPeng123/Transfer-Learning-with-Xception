@@ -6,4 +6,7 @@ The provided data contains 20 classes and consists of 31,925 training samples. S
 
 For modeling purposes we split into 25,000 training samples and 6,925 validation samples.
 
-Both ResNet50 and XceptionNet architecture was tested, the final model was built based on fine tuning the XceptionNet.
+The final model was built based on fine tuning the XceptionNet.
+
+The data and model can be downloaded from the link below:
+https://drive.google.com/open?id=1UEtyWvvPsN6MhtpXwzH5QGKgAa_HEGFN
